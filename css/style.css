@@ -1,0 +1,17 @@
+.container {
+  height: 100vh;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-type {
+  border-radius: 10px;
+  background-color: #e3a163;
+  margin: 0 auto;
+  padding: 2rem;
+}
